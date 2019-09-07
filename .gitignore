@@ -2,6 +2,7 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 
 ### eclplise STS ###
+.svn
 .apt_generated
 .classpath
 .factorypath
