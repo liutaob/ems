@@ -23,7 +23,7 @@
 		<pagehelper.version>3.4.2-fix</pagehelper.version>
 		<redis-client.version>2.7.2</redis-client.version>
 		<mail.version>1.4.7</mail.version>
-		<quartz.version>2.2.2</quartz.version>
+		<quartz.version>2.3.2</quartz.version>
 	</properties>
 		<dependencies>
 			<!-- 时间操作组件 -->
